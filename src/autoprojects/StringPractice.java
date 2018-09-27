@@ -13,7 +13,7 @@ public class StringPractice
         System.out.println(countyname.toLowerCase());
         System.out.println("Enter the first three letters of your county");
         String check = county.nextLine();
-        boolean printCounty = check.contains(countyname);
+        boolean printCounty = countyname.contains(check);
         System.out.println(printCounty);
 
 
