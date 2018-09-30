@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="629533fe-7a7d-4118-8689-4630e3d819f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ooprogramming/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ooprogramming/DiffAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ooprogramming/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ooprogramming/DiffCars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/autoprojects/StringPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/autoprojects/StringPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ooprogramming/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ooprogramming/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ooprogramming/DiffAnimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ooprogramming/DiffAnimals.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,23 +31,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="1871" />
+          <entry key="java" value="2699" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1871" />
+          <entry key="JAVA" value="2699" />
           <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
@@ -54,11 +55,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooprogramming/Animals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="447">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ooprogramming/Cars.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -68,6 +78,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
               <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooprogramming/DiffCars.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -90,8 +109,10 @@
         <option value="$PROJECT_DIR$/src/autoprojects/ArrayPractice.java" />
         <option value="$PROJECT_DIR$/src/autoprojects/StirngPractice.java" />
         <option value="$PROJECT_DIR$/src/autoprojects/StringPractice.java" />
-        <option value="$PROJECT_DIR$/src/ooprogramming/Animals.java" />
         <option value="$PROJECT_DIR$/src/ooprogramming/DiffAnimals.java" />
+        <option value="$PROJECT_DIR$/src/ooprogramming/Animals.java" />
+        <option value="$PROJECT_DIR$/src/ooprogramming/Cars.java" />
+        <option value="$PROJECT_DIR$/src/ooprogramming/DiffCars.java" />
       </list>
     </option>
   </component>
@@ -149,7 +170,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538060836832" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538232790595" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Animals">
+  <component name="RunManager" selected="Application.DiffCars">
     <configuration name="Animals" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ooprogramming.Animals" />
       <module name="core.java.repo" />
@@ -203,6 +224,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DiffCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ooprogramming.DiffCars" />
+      <module name="core.java.repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ooprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="autoprojects.StringPractice" />
       <module name="core.java.repo" />
@@ -216,14 +250,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="o" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <module name="core.java.repo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ooprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Animals" />
       <item itemvalue="Application.ArrayPractice" />
       <item itemvalue="Application.StringPractice" />
       <item itemvalue="Application.DiffAnimals" />
+      <item itemvalue="Application.o" />
+      <item itemvalue="Application.DiffCars" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiffCars" />
+        <item itemvalue="Application.o" />
         <item itemvalue="Application.DiffAnimals" />
         <item itemvalue="Application.StringPractice" />
         <item itemvalue="Application.ArrayPractice" />
@@ -245,9 +295,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="1175" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2669805" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17014122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -306,6 +355,26 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ooprogramming/DiffCars.java</url>
+          <line>5</line>
+          <properties class="ooprogramming.DiffCars" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ooprogramming/Cars.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/autoprojects/StringPractice.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -330,8 +399,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ooprogramming/Animals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="447">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooprogramming/Cars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooprogramming/DiffCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>

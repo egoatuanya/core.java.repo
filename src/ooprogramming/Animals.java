@@ -20,7 +20,7 @@ public class Animals{
                         System.out.println("My movement depends on the number of legs I have");
                 }
 
-                public void fly () {
+                public void fly() {
                         System.out.println("I can only fly if I have wings");
                 }
 
