@@ -5,6 +5,12 @@ public class RunLaptop
     public static void main (String [] args)
     {
         Laptop laptop = new Laptop();
-        laptop.camera();
+        laptop.laptopModel= "ERTY";
+        DellLaptop delllaptop = new DellLaptop();
+        delllaptop.laptopModel ="FGHJK";
+        delllaptop.camera();
+
+
+
     }
 }

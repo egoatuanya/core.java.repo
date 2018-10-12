@@ -2,9 +2,9 @@ package PracticeAccess;
 
 public class Laptop
 {
-    private double laptopPrice;
-    private String laptopMake;
-    private String laptopModel;
+    protected double laptopPrice;
+    protected String laptopMake;
+    protected String laptopModel;
 
     public Laptop()
     {
@@ -13,7 +13,7 @@ public class Laptop
         this.laptopModel = "EAOMP";
     }
 
-    public void camera()
+    protected void camera()
     {
         System.out.println("The is HD 123");
     }
