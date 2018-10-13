@@ -3,15 +3,16 @@ import java.util.Scanner;
 
 public class BankAcc
 {
-    private static String pinnum = "5678";
+    private  String pinnum;
     private int balance;
     private int withdraw;
     private int deposit;
     private boolean isPinCorrect = true;
 
-    public BankAcc() {
-        this.pinnum = pinnum;
-        this.balance = 4000;
+    public BankAcc()
+    {
+        this.pinnum = "5678";
+        this.balance = 3000;
         this.withdraw = withdraw;
         this.deposit = deposit;
         this.isPinCorrect = isPinCorrect;
