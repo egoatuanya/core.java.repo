@@ -12,6 +12,8 @@ public class StudentNames {
         }
     }
 
+
+
         public void findStudentNames()
     {
         String [] studentNames = new String[7];
